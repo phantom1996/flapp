@@ -15,3 +15,5 @@ To use this template, your computer needs:
 python app.py
 ```
 
+.
+A simple Blog Created 
